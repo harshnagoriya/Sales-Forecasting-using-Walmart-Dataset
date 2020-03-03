@@ -1,0 +1,2 @@
+# Sales-Forecasting-using-Walmart-Dataset
+Walmart data-set has sales data for 98 products across 45 outlets. The data-set contains sales per store, per department on weekly basis. The goal of this machine learning project is to forecast sales for each department in each outlet to help them make better data driven decisions for channel optimization and inventory planning. This project is proudly created by Harsh Nagoriya
